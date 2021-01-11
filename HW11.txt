@@ -1,0 +1,9 @@
+1. image: https://www.raspberrypi.org/blog/raspberry-pi-imager-imaging-utility/
+   SSH enable: https://howchoo.com/g/ote0ywmzywj/how-to-enable-ssh-on-raspbian-without-a-screen
+
+2. 使用SSH + PUTTY 連線我的raspberrypi
+User name: Pi
+host name: Raspberrypi0
+password: 123
+
+3. 用raspi-config設定無線網路
